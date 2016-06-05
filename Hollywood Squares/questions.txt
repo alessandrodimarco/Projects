@@ -1,0 +1,8 @@
+What is 1 + 1?
+    2, 3, 4, 5;
+
+Are Kinder eggs illegal in the US?
+	True, False;
+
+In April 2005, How many toads exploded in Hamburg, as a result of crows removing the livers from the toads?
+	1000, 2000, 3000, 4000;
