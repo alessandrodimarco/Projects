@@ -1,4 +1,4 @@
-# School-Projects
+# Projects
 
 ### Algorithms
   - Insertion sort
